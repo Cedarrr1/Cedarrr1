@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Cedar+Mikey+%28Cedar+Zeng%29;CS+Undergraduate+@+CSU;AI+Researcher+in+ST+Data+Mining;Exploring+LLM+Reasoning" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  🎓 CS Undergraduate @ Central South University (CSU) &nbsp;|&nbsp; 🙋‍♂️ he/him<br/>
-  🧠 Spatio-Temporal Data Mining • Cross-Modal Learning • LLM Reasoning<br/>
-  🎻 Viola Player &nbsp;|&nbsp; 🏀 Basketball Enthusiast
-</p>
 
 <p align="center">
   🎓 CS Undergraduate @ Central South University &nbsp;|&nbsp; 🚀 Incoming Master's Student @ USTC; 🙋‍♂️ he/him<br/>
