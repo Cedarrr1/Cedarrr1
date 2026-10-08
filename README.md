@@ -8,6 +8,11 @@
   🎻 Viola Player &nbsp;|&nbsp; 🏀 Basketball Enthusiast
 </p>
 
+<p align="center">
+  🎓 CS Undergraduate @ Central South University &nbsp;|&nbsp; 🚀 Incoming Master's Student @ USTC; 🙋‍♂️ he/him<br/>
+  🧠 Spatio-Temporal Data Mining • LLM Reasoning<br/>
+  🎻 Viola Player &nbsp;|&nbsp; 🏀 Basketball Enthusiast
+</p>
 ---
 
 <p align="center">
