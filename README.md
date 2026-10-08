@@ -4,10 +4,15 @@
 
 
 <p align="center">
-  🎓 CS Undergraduate @ Central South University &nbsp;|&nbsp; 🚀 Incoming Master's Student @ USTC; 🙋‍♂️ he/him<br/>
-  🧠 Spatio-Temporal Data Mining • LLM Reasoning<br/>
+  🎓 CS Undergraduate @ Central South University (CSU)<br/>
+  <a href="https://www.ustc.edu.cn">
+    <img src="https://img.shields.io/badge/🚀%20Incoming%20Master-USTC%20(中科大)-0055A4?style=for-the-badge&labelColor=black" alt="Incoming Master at USTC"/>
+  </a><br/>
+  🙋‍♂️ he/him &nbsp;|&nbsp; 🧠 Spatio-Temporal Data Mining • LLM Reasoning<br/>
   🎻 Viola Player &nbsp;|&nbsp; 🏀 Basketball Enthusiast
 </p>
+
+
 ---
 
 <p align="center">
