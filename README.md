@@ -5,9 +5,7 @@
 
 <p align="center">
   🎓 CS Undergraduate @ Central South University (CSU)<br/>
-  <a href="https://www.ustc.edu.cn">
-    <img src="https://img.shields.io/badge/🚀%20Incoming%20Master-USTC%20(中科大)-0055A4?style=for-the-badge&labelColor=black" alt="Incoming Master at USTC"/>
-  </a><br/>
+  🚀 Incoming Master @ University of Science and Technology of China (USTC)<br/>
   🙋‍♂️ he/him &nbsp;|&nbsp; 🧠 Spatio-Temporal Data Mining • LLM Reasoning<br/>
   🎻 Viola Player &nbsp;|&nbsp; 🏀 Basketball Enthusiast
 </p>
